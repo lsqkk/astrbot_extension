@@ -1,6 +1,6 @@
 name: quark_daily_sign
-display_name: Quark 每日签
-desc: 抽签插件升级版 —— 饭签、卷签、躺签等20+主题，签在末尾才能抽，Quark批注。
+display_name: Quark 随机工具箱
+desc: 抽签 · 今日运势 · 骰子 · 抛硬币 · 做决定 —— 一个插件搞定所有随机需求。
 author: Quark
-version: 1.0.0
+version: 2.0.0
 repo: local

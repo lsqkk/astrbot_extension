@@ -1,0 +1,6 @@
+name: astrbot_plugin_yuntuanz_daily_sign
+display_name: 云团子每日签
+desc: 支持云签、史签、臭签等泛签；同一群同一用户每天只返回一个签。
+author: KumoMayu
+version: 0.1.0
+repo: local

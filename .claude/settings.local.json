@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c \"import ast; ast.parse\\(open\\('quark_qq_inject/main.py', encoding='utf-8'\\).read\\(\\)\\); print\\('quark_qq_inject OK'\\)\")",
+      "Bash(python -c \"import ast; ast.parse\\(open\\('quark_daily_sign/main.py', encoding='utf-8'\\).read\\(\\)\\); print\\('quark_daily_sign OK'\\)\")",
+      "Bash(tar.exe -a -c -f quark_qq_inject.zip quark_qq_inject/)",
+      "Bash(tar.exe -a -c -f quark_daily_sign.zip quark_daily_sign/)",
+      "Bash(tar -tf \"D:/git/lsqkk/astrbot_extension/quark_qq_inject.zip\")",
+      "Bash(tar -tf \"D:/git/lsqkk/astrbot_extension/quark_daily_sign.zip\")",
+      "Bash(python -c ' *)"
+    ]
+  }
+}

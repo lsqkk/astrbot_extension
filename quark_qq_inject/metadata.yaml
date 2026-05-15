@@ -1,0 +1,6 @@
+name: quark_qq_inject
+display_name: Quark QQ注入
+desc: 将发送者的QQ号注入消息事件，供下游插件使用；静默运行，不产生响应。
+author: Quark
+version: 0.1.0
+repo: local
